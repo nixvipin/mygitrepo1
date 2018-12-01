@@ -1,2 +1,3 @@
 Test file
-This is line2 
+This is line2
+This is line3 
