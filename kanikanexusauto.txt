@@ -1,1 +1,1 @@
-this is the test file for deploying the artifact directly to nexus.
+this is the test file for deploying the artifact directly to nexus.not working as of now.
