@@ -1,2 +1,1 @@
 This is my test file
-I am on line 2
